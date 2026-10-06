@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.sceneryimage{
+    padding: 10vh 25vw;
+    width: 100%;
+}
+.sceneryimage img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.button{
+    width: 100%;
+    padding: 1.5vh 2vw;
+    border: none;
+    font-size: 2vw;
+    color: white;
+    background: linear-gradient(to right, orange, limegreen);
+    cursor: pointer;
+}
